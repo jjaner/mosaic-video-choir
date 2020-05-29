@@ -3,7 +3,8 @@
 
 # RESIZE CONVERT RIGHT ASPECT RATIO
 
-curpath="/Users/jjaner/Jordi/àgata/espinguet-stjordi2020"
+#curpath="/Users/jjaner/Jordi/àgata/espinguet-stjordi2020"
+curpath="/Users/jjaner/Jordi/àgata/espinguet-stjordi2020/pendents-juny"
 VeusArray=("VEU1" "VEU2" "VEU3" "VEU4")
 
 
